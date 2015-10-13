@@ -27,7 +27,7 @@ please contact an organizer immediately.
 
 ### NodeSchool Philadelphia
 
-* Organizers: **Aidan Obley [t/adobley](https://twitter.com/adobley)**
+* Organizers: **Aidan Obley, [twitter](https://twitter.com/adobley)**
 * Meetup URL: **Coming Soon**
 
 **If you have questions or feedback about this Code of Conduct please contact
