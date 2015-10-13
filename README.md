@@ -1,2 +1,1 @@
-# philadelphia
-NodeSchool chapter for Philadelphia, PA
+# NodeSchool Philadelphia GitHub Page
