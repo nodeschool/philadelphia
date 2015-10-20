@@ -1,6 +1,8 @@
 # NodeSchool Philadelphia
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/philadelphia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+![NodeSchool Philadelphia](phillynslogo.png)
+
 Have a question? [Open an issue](https://github.com/nodeschool/philadelphia/issues). We use the GitHub Issues like a message board so all of our communication can be public.
 
 ## What is NodeSchool?
