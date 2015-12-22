@@ -18,4 +18,9 @@ We are currently looking for:
 * [Sponsors](https://github.com/nodeschool/philadelphia/issues/5)
 
 ## When is the next NodeSchool Philadelphia event?
-We are working on a location, date, and finding mentors right now. As soon as we have a date we will announce it.
+#January 9, 2016 10AM to 4PM#
+This event will be held at P'unk Avenue, 1168 E Passyunk Ave, Philadelphia, PA 19147.
+
+Huge thanks to P'unk Avenue for hosting and Linode for sponsoring so we can have this event!
+
+Please see the [event page](https://ti.to/nodeschool-philadelphia/january-9-2016) for more details.
