@@ -1,5 +1,4 @@
 # NodeSchool Philadelphia
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/philadelphia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![NodeSchool Philadelphia](phillynslogo.png)
 
@@ -12,15 +11,12 @@ Please take a moment and look at our [Code of Conduct](https://github.com/nodesc
 
 ## How can I help?
 We are currently looking for:
-* [A Venue](https://github.com/nodeschool/philadelphia/issues/4),
-* [Organizers](https://github.com/nodeschool/philadelphia/issues/1),
-* [Mentors](https://github.com/nodeschool/philadelphia/issues/2),
 * [Sponsors](https://github.com/nodeschool/philadelphia/issues/5)
 
 ## When is the next NodeSchool Philadelphia event?
-#January 9, 2016 10AM to 4PM#
-This event will be held at P'unk Avenue, 1168 E Passyunk Ave, Philadelphia, PA 19147.
+**Wednesday, August 29th 6PM to 9PM**
+This event will be held at Elsevier Inc., 1600 John F Kennedy Blvd, 18th Floor, Philadelphia, PA 19103.
 
-Huge thanks to P'unk Avenue for hosting and Linode for sponsoring so we can have this event!
+Huge thanks to Elsevier's Matt Morgis, Tamera Lanham, and Robert Samalonis for their help with hosting and mentoring for our events!
 
-Please see the [event page](https://ti.to/nodeschool-philadelphia/january-9-2016) for more details.
+
