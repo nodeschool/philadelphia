@@ -14,7 +14,7 @@ We are currently looking for:
 * [Sponsors](https://github.com/nodeschool/philadelphia/issues/5)
 
 ## When is the next NodeSchool Philadelphia event?
-**Wednesday, August 29th 6PM to 9PM**
+**Wednesday, August 29th 6PM to 9PM**\
 This event will be held at Elsevier Inc., 1600 John F Kennedy Blvd, 18th Floor, Philadelphia, PA 19103.
 
 Huge thanks to Elsevier's Matt Morgis, Tamera Lanham, and Robert Samalonis for their help with hosting and mentoring for our events!
